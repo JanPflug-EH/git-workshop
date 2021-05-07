@@ -74,7 +74,7 @@ später anderen zur Integration anzubieten.
 ---
 
 
-### Achitektur von Git
+### Architektur von Git
 
  * **dezentral** \
    Kein Server/Service/Dämon. \
